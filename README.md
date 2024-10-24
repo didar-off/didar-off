@@ -26,13 +26,13 @@ Welcome to my GitHub profile! I’m **Didar**, a passionate **Backend developer*
 
 ## 💻 Projects I'm Proud Of
 
-- **Advanced E-commerce Website**: A Django-based online store with custom user models, CKEditor integration, and dynamic product listings. [Repo Link](https://github.com/velkaris/django-ecommerce)
-- **Instagram Clone**: Built a fully functional instagram clone in Django with a lots of cool feature. [Repo Link](https://github.com/yourusername/rating-system)
-- **Netflex Clone**: Built a fully functional instagram clone in Django with a lots of cool feature. [Repo Link](https://github.com/yourusername/rating-system)
+- **Advanced E-commerce Website**: A Django-based online store with custom user models, CKEditor integration, and dynamic product listings. [Repo Link](https://github.com/didar/django-ecommerce)
+- **Instagram Clone**: Built a fully functional instagram clone in Django with a lots of cool feature. [Repo Link](https://github.com/didar/instagram-clone)
+- **Netflex Clone**: Built a fully functional instagram clone in Django with a lots of cool feature. [Repo Link](https://github.com/didar/netflex-clone)
 - **Portfolio Website**: My personal website showcasing my projects and skills. [In progress](https://google.com)
 
-<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=velkaris&bg_color=000000&title_color=ffffff&text_color=989898&show_icons=true&icon_color=ffffff"/>
-<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=velkaris&layout=compact&bg_color=000000&title_color=ffffff&text_color=989898&show_icons=true&icon_color=ffffff"/>
+<img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=didar&bg_color=000000&title_color=ffffff&text_color=989898&show_icons=true&icon_color=ffffff"/>
+<img alt="top langs" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=didar&layout=compact&bg_color=000000&title_color=ffffff&text_color=989898&show_icons=true&icon_color=ffffff"/>
 
 ## ⚡ Goals for the Future
 
