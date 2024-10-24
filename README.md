@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I’m **Didar**, a passionate **Backend developer*
 
 ## 🌐 Connect with Me
 
-[![Telegram Badge](https://img.shields.io/badge/-@Velkaris-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://web.telegram.org/k/#@velkaris)](https://web.telegram.org/k/#@didaroff_2008)
+[![Telegram Badge](https://img.shields.io/badge/-@Didar-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://web.telegram.org/k/#@didaroff_2008)](https://web.telegram.org/k/#@didaroff_2008)
 [![GitHub Badge](https://img.shields.io/badge/-Didar-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/didar-off) 
 [![StackOverflow Badge](https://img.shields.io/badge/-Didar-f48024?style=flat&labelColor=f48024&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27971519/didar) 
 [![Instagram Badge](https://img.shields.io/badge/-@Didar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/user0830228/) 
