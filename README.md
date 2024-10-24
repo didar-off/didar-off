@@ -2,7 +2,7 @@
 
 ![MasterHead](https://trisya.com/myimg/child/Website%20Design.gif)
 
-Welcome to my GitHub profile! I’m **Velkaris**, a passionate **Backend developer** specializing in building robust and scalable web applications using **Python** and **Django**.
+Welcome to my GitHub profile! I’m **Didar**, a passionate **Backend developer** specializing in building robust and scalable web applications using **Python** and **Django**.
 
 ## 🚀 About Me
 
