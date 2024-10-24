@@ -15,11 +15,11 @@ Welcome to my GitHub profile! I’m **Velkaris**, a passionate **Backend develop
 
 ## 🌐 Connect with Me
 
-[![Telegram Badge](https://img.shields.io/badge/-@Velkaris-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://web.telegram.org/k/#@velkaris)](https://web.telegram.org/k/#@velkaris)
-[![GitHub Badge](https://img.shields.io/badge/-Velkaris-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/velkaris) 
-[![StackOverflow Badge](https://img.shields.io/badge/-Velkaris-f48024?style=flat&labelColor=f48024&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27971519/velkaris) 
+[![Telegram Badge](https://img.shields.io/badge/-@Velkaris-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://web.telegram.org/k/#@velkaris)](https://web.telegram.org/k/#@didaroff_2008)
+[![GitHub Badge](https://img.shields.io/badge/-Didar-000000?style=flat&labelColor=000000&logo=github&logoColor=white)](https://github.com/didar-off) 
+[![StackOverflow Badge](https://img.shields.io/badge/-Didar-f48024?style=flat&labelColor=f48024&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27971519/didar) 
 [![Instagram Badge](https://img.shields.io/badge/-@Didar-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/user0830228/) 
-[![Email Badge](https://img.shields.io/badge/-Velkaris-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:didarkuliew54@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Didar-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:didarkuliew54@gmail.com)
 
 ## 🔨 Languages and Tools
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,figma,git,github,py,django,vscode,powershell,ps,ai)](https://skillicons.dev)
